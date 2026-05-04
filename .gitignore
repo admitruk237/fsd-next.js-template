@@ -20,6 +20,12 @@
 # production
 /build
 
+
+CLAUDE.md
+.antigravityrules
+.claude/
+
+
 # misc
 .DS_Store
 *.pem
